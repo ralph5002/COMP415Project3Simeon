@@ -18,7 +18,7 @@ coverage.txt
 coverage.xml
 *.coverprofile
 profile.cov
-
+apikey.txt
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
